@@ -1,8 +1,11 @@
-/* your styles go here */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-p {
+.description ul{
 	font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
 }
 .nav-link{
 	font-family: 'Roboto', sans-serif;
